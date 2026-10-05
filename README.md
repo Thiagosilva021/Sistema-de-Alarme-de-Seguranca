@@ -135,8 +135,6 @@ O circuito pode ser simulado no [Tinkercad Circuits](https://www.tinkercad.com/c
 - **Notificações:** integrar um módulo Wi-Fi/GSM (ex.: ESP8266) para enviar alertas ao celular.
 - **Tempo de calibração do PIR:** aguardar alguns segundos após ligar o sensor antes de iniciar o monitoramento, evitando falsos disparos.
 
-![alt text](image-1.png)
-
 ## 📄 Licença
 
 Projeto desenvolvido para fins educacionais. Sinta-se livre para estudar, modificar e reutilizar.
